@@ -1,4 +1,4 @@
-// File: /home/lobster/portfolio/src/app/portfolio/page.jsx
+// File: E:\portfolio\src\app\portfolio\page.jsx
 import * as entry from '../../../../src/app/portfolio/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
